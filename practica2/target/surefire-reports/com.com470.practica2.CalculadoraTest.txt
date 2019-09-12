@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.com470.practica2.CalculadoraTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.043 s <<< FAILURE! - in com.com470.practica2.CalculadoraTest
+testDivideEntreCero(com.com470.practica2.CalculadoraTest)  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.CalculadoraTest.testDivideEntreCero(CalculadoraTest.java:37)
+
+testResta(com.com470.practica2.CalculadoraTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.CalculadoraTest.testResta(CalculadoraTest.java:25)
+
+testSuma(com.com470.practica2.CalculadoraTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.CalculadoraTest.testSuma(CalculadoraTest.java:21)
+
+testMultiplicacion(com.com470.practica2.CalculadoraTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.CalculadoraTest.testMultiplicacion(CalculadoraTest.java:29)
+
+testDivision(com.com470.practica2.CalculadoraTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.CalculadoraTest.testDivision(CalculadoraTest.java:33)
+

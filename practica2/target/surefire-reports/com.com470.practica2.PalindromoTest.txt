@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.com470.practica2.PalindromoTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.com470.practica2.PalindromoTest
+testPalindromoFalso1(com.com470.practica2.PalindromoTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.PalindromoTest.testPalindromoFalso1(PalindromoTest.java:31)
+
+testPalindromoFalso2(com.com470.practica2.PalindromoTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.PalindromoTest.testPalindromoFalso2(PalindromoTest.java:35)
+
+testPalindromoVerdarero1(com.com470.practica2.PalindromoTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.PalindromoTest.testPalindromoVerdarero1(PalindromoTest.java:23)
+
+testPalindromoVerdarero2(com.com470.practica2.PalindromoTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at com.com470.practica2.PalindromoTest.testPalindromoVerdarero2(PalindromoTest.java:27)
+
